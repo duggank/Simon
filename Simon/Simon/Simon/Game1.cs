@@ -32,6 +32,8 @@ namespace Simon
         float compturnmax = 1000f;
         bool click1 = false;
         bool playturn = false;
+        float time = 0f;
+        float timeMax = 1000f;
 
         List<SimonColors> moves;   // Hint
         int PlayBackIndex = 0;  // Index into moves list
@@ -104,36 +106,46 @@ namespace Simon
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            buttpress += gameTime.ElapsedGameTime.Milliseconds;
-            compturn += gameTime.ElapsedGameTime.Milliseconds;
-            
             
 
             if (turn == Turn.COMPUTER)
             {
-                if (compturn >= compturnmax)
+                compturn += gameTime.ElapsedGameTime.Milliseconds;
+
+                if (compturn > compturnmax)
                 {
-                    moves.Add((SimonColors)rand.Next(0,4));
-                    turn = Turn.PLAYBACK;
+                    moves.Add((SimonColors)rand.Next(0, 4));
+
                     PlayBackIndex = 0;
+                    turn = Turn.PLAYBACK;
                     compturn = 0f;
                 }
-                Window.Title = "Computer...";
-                
+
+                Window.Title = "Computer...";   
             }
             else if (turn == Turn.PLAYBACK)
             {
+                Window.Title = "PLAYBACK"; //remove this sunov bitch
                 // TODO: Play one move every 750ms.. 
+                buttpress += gameTime.ElapsedGameTime.Milliseconds;
+
+                Lit = moves[PlayBackIndex];
+
                 if (buttpress >= buttpressMax)
                 {
                     PlayBackIndex++;
+                    Lit = SimonColors.NONE;
                     buttpress = 0f;
                 }
-                if (PlayBackIndex >= moves.Count)
+                if (PlayBackIndex == moves.Count)
                 {
+                    Lit = SimonColors.NONE;
                     turn = Turn.PLAYER;
                     PlayerTurnIndex = 0;
+                    
                 }
+                
+                
                 // DO NOT PLAY BACK ALL MOVES AT ONCE
 
                 // If PlayBackIndex == moves.Count then turn = Turn.PLAYER (and set PlayerTurnIndex to 0)
@@ -143,6 +155,8 @@ namespace Simon
                 MouseState ms = Mouse.GetState();
                 playturn = true;
                 Window.Title = "You";
+                Lit = SimonColors.NONE;
+
                     if (click1 && ms.LeftButton == ButtonState.Pressed)
                     {
                         // Check to see if green button is hit.. add code to make sure the mouse button is depressed so you
@@ -155,19 +169,18 @@ namespace Simon
                         if (Lit != SimonColors.NONE)
                         {
                             // do something here!  Maybe see if Lit was the correct button to press?
-                            for (int x = 0; x < moves.Count; x++)
-                            {
-                                if (Lit != moves[x])
+                            
+                                if (Lit != moves[PlayerTurnIndex])
                                     turn = Turn.GAMEOVER;
                                 else
                                 {
+                                    SoundManager.PlaySimonSound(Lit);
                                     PlayerTurnIndex++;
-                                    turn = Turn.COMPUTER;
                                 }
-                            }
+                                if (PlayerTurnIndex == moves.Count)
+                                    turn = Turn.COMPUTER;
 
-
-                            SoundManager.PlaySimonSound(Lit);
+                            
                         }
                     }
                     if (ms.LeftButton == ButtonState.Released)
@@ -179,7 +192,7 @@ namespace Simon
             else if (turn == Turn.GAMEOVER)
             {
                 SoundManager.PlayGameOver();
-
+                Window.Title = "GameOveryoytpreguoraegohagoioiugty";
                 moves.Clear();
                 turn = Turn.COMPUTER;
                 Lit = SimonColors.NONE;

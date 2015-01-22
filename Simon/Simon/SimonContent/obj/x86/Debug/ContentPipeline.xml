@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\board.xnb</Output>
-      <Time>2015-01-21T08:55:55.5436981-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2015-01-22T07:34:10.5726-05:00</Time>
     </Item>
     <Item>
       <Source>simon.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simon.xnb</Output>
-      <Time>2015-01-21T08:55:55.5749473-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\simon.xnb</Output>
+      <Time>2015-01-22T07:34:10.8526-05:00</Time>
     </Item>
     <Item>
       <Source>cursor.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\cursor.xnb</Output>
-      <Time>2015-01-21T08:55:55.5436981-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2015-01-22T07:34:10.5726-05:00</Time>
     </Item>
     <Item>
       <Source>gameover.wav</Source>
@@ -34,8 +34,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\gameover.xnb</Output>
-      <Time>2015-01-21T08:55:55.5593216-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2015-01-22T07:34:10.5796-05:00</Time>
     </Item>
     <Item>
       <Source>gameover2.wav</Source>
@@ -43,8 +43,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\gameover2.xnb</Output>
-      <Time>2015-01-21T08:55:55.5749473-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\gameover2.xnb</Output>
+      <Time>2015-01-22T07:34:10.5836-05:00</Time>
     </Item>
     <Item>
       <Source>simonSound1.wav</Source>
@@ -52,8 +52,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound1.xnb</Output>
-      <Time>2015-01-21T08:55:55.5905718-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound1.xnb</Output>
+      <Time>2015-01-22T07:34:10.8536-05:00</Time>
     </Item>
     <Item>
       <Source>simonSound2.wav</Source>
@@ -61,8 +61,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound2.xnb</Output>
-      <Time>2015-01-21T08:55:55.6061974-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound2.xnb</Output>
+      <Time>2015-01-22T07:34:10.8546-05:00</Time>
     </Item>
     <Item>
       <Source>simonSound3.wav</Source>
@@ -70,8 +70,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound3.xnb</Output>
-      <Time>2015-01-21T08:55:55.6061974-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound3.xnb</Output>
+      <Time>2015-01-22T07:34:10.8546-05:00</Time>
     </Item>
     <Item>
       <Source>simonSound4.wav</Source>
@@ -79,8 +79,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound4.xnb</Output>
-      <Time>2015-01-21T08:55:55.6218225-08:00</Time>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound4.xnb</Output>
+      <Time>2015-01-22T07:34:10.8586-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -88,39 +88,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\SimonContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\SimonContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\SimonContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\SimonContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\EAHSCS\Documents\GitHub\Simon\Simon\Simon\Simon\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Value>2010-08-23T12:41:18-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-01-15T12:06:59.0832956-08:00</Value>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-18T11:24:14.1308-04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
