@@ -58,3 +58,18 @@ C:\Documents and Settings\tanczosm.EASD\Desktop\SimonAssets2\SimonAssets\SimonAs
 C:\Documents and Settings\tanczosm.EASD\Desktop\SimonAssets2\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Documents and Settings\tanczosm.EASD\Desktop\SimonAssets2\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Simon.exe
 C:\Documents and Settings\tanczosm.EASD\Desktop\SimonAssets2\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Simon.pdb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\board.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simon.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\cursor.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\gameover.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\gameover2.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound1.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound2.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound3.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Content\simonSound4.xnb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Simon.exe
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\bin\x86\Debug\Simon.pdb
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Simon.exe
+C:\Users\creat_000\Desktop\SimonAssets\SimonAssets\Simon\Simon\Simon\obj\x86\Debug\Simon.pdb
